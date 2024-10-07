@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  font-style: bold;
+  margin: 5%;
+  padding: 0%;
+}
+
+.paper {
+  border-style: double;
+  padding: 50px;
+}
+.title {
+  color: green;
+}
+
+hr {
+  height: 2px;
+  border-width: 0;
+  color: gray;
+  background-color: black;
+}
+
+div {
+  color: black;
+}
+
+.info p {
+  margin: 3px 0; /* Adjust the top and bottom spacing */
+}
+
+h3 {
+  color: blue;
+}
+
+.edu-details p {
+  margin: 3px 0; /* Adjust the top and bottom spacing */
+}
