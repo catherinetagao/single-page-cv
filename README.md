@@ -6,6 +6,8 @@ This repository contains a simple CV for Catherine Orbe, a Junior Frontend Devel
 
 You can view the live project at: [https://c-portfolio.balbuena.io/Single-Page-CV/]
 
+https://github.com/catherinetagao/single-page-cv
+
 ## Technologies Used
 
 - HTML
